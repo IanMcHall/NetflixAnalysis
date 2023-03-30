@@ -1,4 +1,4 @@
-# NetflixAnalysis
+# Netflix Analysis
 
 ## Mission:
 The purpose of this project is to analyze the history of streaming service Netflix's yearly revenue, cost of operation, profit, and changes in market cap to determine if there is a correlation between this data and the company's recent consideration of cracking down on password sharing. 
