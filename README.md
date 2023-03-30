@@ -16,3 +16,6 @@ pip install pandas
 4. Build a custom data dictionary: While much of what the data represents in my project may be self explanitory, especially to anyone familiar with finance, I produced and included a data dictionary for reference. This data dictionary can be found as a csv file titled "NET Data Dictionary" that is included with the code.
 
 5. Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md: For this feature, I annotated my code with markdown cells in Jupyter Notebook, wrote clear code comments, and wrote a well-written README.md.
+
+##Sources:
+All total revenue, cost of operation, gross profit, stock open, stock high, stock low, and stock close data was gathered from https://finance.yahoo.com. Market cap data is from https://companiesmarketcap.com.
