@@ -1,4 +1,4 @@
-"id","date","total revenue","cost of revenue","gross profit"
+"id","date","total revenue","cost of operation","gross profit"
 0,"2022-12-31",31615600640,19168299008,12447299584
 1,"2021-12-31",29697800192,17332699136,12365200384
 2,"2020-12-31",24996100096,15276300288,9719740416
