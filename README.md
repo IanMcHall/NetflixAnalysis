@@ -17,5 +17,5 @@ pip install pandas
 
 5. Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md: For this feature, I annotated my code with markdown cells in Jupyter Notebook, wrote clear code comments, and wrote a well-written README.md.
 
-##Sources:
+## Sources:
 All total revenue, cost of operation, gross profit, stock open, stock high, stock low, and stock close data was gathered from https://finance.yahoo.com. Market cap data is from https://companiesmarketcap.com.
