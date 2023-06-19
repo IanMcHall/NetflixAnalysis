@@ -1,5 +1,8 @@
 # Netflix Analysis
 
+## IMPORTANT:
+The graphs in this project seem to display incorrectly when viewed on this github page, which makes the data appear to not match visualization. For accurate charts, please download and run this project in a dedicated IDE. 
+
 ## Mission:
 The purpose of this project is to analyze the history of streaming service Netflix's yearly revenue, cost of operation, profit, and changes in market cap to determine if there is a correlation between this data and the company's recent consideration of cracking down on password sharing. 
 
